@@ -1,7 +1,7 @@
-<H3>VESLIN ANISH AP</H3>
-<H3>212223240175</H3>
+<H3>NAME: VESLIN ANISH A</H3>
+<H3>REGISTER NUMBER: 212223240175</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE: 11-11-2025</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
@@ -99,15 +99,20 @@ print(f"Input:{np.array([0, 0])}, Predicted: {predict_matrix(np.array([0, 0]), w
 print(f"Input:{np.array([0, 1])}, Predicted: {predict_matrix(np.array([0, 1]), w)}")
 print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w)}")
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
-
 ```
 
 <H3>OUTPUT:</H3>
 
-![alt text](output/image.png)
+<img width="1032" height="667" alt="image" src="https://github.com/user-attachments/assets/c9648db5-0a1f-45f3-be84-fcb22f17f8ce" />
 
-
-![alt text](<output/image copy.png>)
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
+
+
+
+
+
+
+
+
